@@ -1,4 +1,4 @@
-name := "OracleBootstrap"
+name := "oracle-pool-bootstrap"
 
 version := "0.1"
 
