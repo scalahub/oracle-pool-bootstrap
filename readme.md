@@ -53,7 +53,7 @@ Usage:
 
 Example:
 
-    java -cp oracle-pool-bootstrap.jar  ergo.oraclepool.GetAddresses 12caaacb51c89646fac9a3786eb98d0113bd57d68223ccc11754a4f67281daed b662db51cf2dc39f110a021c2a31c74f0a1a18ffffbf73e8a051a7b8c0f09ebc
+    java -cp oracle-pool-bootstrap.jar ergo.oraclepool.GetAddresses 12caaacb51c89646fac9a3786eb98d0113bd57d68223ccc11754a4f67281daed b662db51cf2dc39f110a021c2a31c74f0a1a18ffffbf73e8a051a7b8c0f09ebc
 
 Output:
 
