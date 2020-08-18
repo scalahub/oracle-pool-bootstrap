@@ -8,7 +8,7 @@ This is a CLI to bootstrap the oracle pool. The CLI has 5 modules (5 main classe
 
 ## Step 1: Configure options
 
-Edit the file [ergp/oraclepool/package.scala](src/main/scala/ergo/oraclepool/package.scala) and update following parameters as desired:
+Edit the file [ergo/oraclepool/package.scala](src/main/scala/ergo/oraclepool/package.scala) and update following parameters as desired:
 
     val oracleReward = 2500000L // NanoErgs
     val minBoxValue = 1500000L // NanoErgs
